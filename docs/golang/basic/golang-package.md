@@ -232,7 +232,7 @@ go mod tidy
 
 ### Go mod导入包的代码实例
 
-下面是一个使用Go [Modules机制导入github.com/gin-gonic/gin包的例子：](http://xn--modulesgithub-2x0v68g1w3d362b.com/gin-gonic/gin%E5%8C%85%E7%9A%84%E4%BE%8B%E5%AD%90%EF%BC%9A)
+下面是一个使用Go Modules机制导入github.com/gin-gonic/gin包的例子
 
 ```bash
 package main
