@@ -6,7 +6,7 @@ hero:
   text: 全栈独立开发者记录
   tagline: 关于前端、后端、运维、产品、设计、创业、生活的记录
   image:
-    src: /logo.png
+    src: https://typora-1300715298.cos.ap-shanghai.myqcloud.com//blog3.png
     alt: 网站的 logo 图片
   actions:
     - theme: brand
