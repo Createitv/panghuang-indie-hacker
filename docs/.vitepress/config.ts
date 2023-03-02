@@ -6,8 +6,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '独立开发者彷丶徨丶',
   description: '独立开发者彷丶徨丶 全栈教程笔记 notebook',
-  // 暗黑模式
-  appearance: 'dark',
+  appearance: true,
   // 上次提交更新实践记录
   lastUpdated: true,
   cleanUrls: true,

@@ -1,5 +1,7 @@
 # Go 语言第一个程序
 
+![At last, the secrets of golang are revealed](https://typora-1300715298.cos.ap-shanghai.myqcloud.com//blog20230301230835.png)
+
 以下是Go语言的第一个程序示例：
 
 ```go
