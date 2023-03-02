@@ -3,8 +3,6 @@
 [[toc]]
 ![At last, the secrets of golang are revealed](https://typora-1300715298.cos.ap-shanghai.myqcloud.com//blog20230301230835.png)
 
-# 模板
-
 # Go语言运算符
 
 Go语言支持以下类型的运算符：
