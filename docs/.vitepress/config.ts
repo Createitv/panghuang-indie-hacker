@@ -3,7 +3,6 @@ import type { DefaultTheme } from 'vitepress/types/default-theme'
 import { slidebarGo } from './slidebarGo'
 
 export default defineConfig({
-  outDir:'../dist',
   lang: 'zh-CN',
   title: '独立开发者彷丶徨丶',
   description: '独立开发者彷丶徨丶 全栈教程笔记 notebook',
@@ -21,6 +20,7 @@ export default defineConfig({
     headers: {
       level: [0, 0],
     },
+
   },
 
   themeConfig: {

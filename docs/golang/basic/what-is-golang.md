@@ -1,8 +1,13 @@
+---
+title: Blogging Like a Hacker
+lang: ZH-CN
+---
+
 # Go语言是什么
 
 ![At last, the secrets of golang are revealed](https://typora-1300715298.cos.ap-shanghai.myqcloud.com//blog20230301230835.png)
 
-Golang是一种由Google开发的开源编程语言。它具有高效、简洁、易于维护的特点，并支持并发编程。它的目标是提高程序员的开发效率，特别是在大型项目中。
+:tada: Golang 是一种由Google开发的开源编程语言。它具有高效、简洁、易于维护的特点，并支持并发编程。它的目标是提高程序员的开发效率，特别是在大型项目中。
 
 Golang是一种静态类型语言，编译时会进行类型检查，能够在编译阶段捕获一些常见的错误。同时，Golang的语法简单易懂，学习门槛较低，因此备受程序员们的喜爱。
 
