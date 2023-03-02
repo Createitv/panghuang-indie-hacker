@@ -4,7 +4,7 @@ import { slidebarGo } from './slidebarGo'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: '独立开发者彷丶徨丶',
+  title: '彷丶徨丶',
   description: '独立开发者彷丶徨丶 全栈教程笔记 notebook',
   appearance: true,
   // 上次提交更新实践记录
@@ -45,9 +45,9 @@ export default defineConfig({
     },
 
     algolia: {
-      appId: '8J64VVRP8K',
-      apiKey: 'a18e2f4cc5665f6602c5631fd868adfd',
-      indexName: 'vitepress',
+      appId: 'GUKTRWXQG8',
+      apiKey: '6cac038c6390e232b35c23899d050265',
+      indexName: 'panghuang',
     },
 
     carbonAds: {
